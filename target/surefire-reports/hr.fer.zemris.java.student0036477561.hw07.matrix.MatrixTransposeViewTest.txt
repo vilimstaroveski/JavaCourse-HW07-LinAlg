@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: hr.fer.zemris.java.student0036477561.hw07.matrix.MatrixTransposeViewTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 sec
